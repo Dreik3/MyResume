@@ -64,8 +64,15 @@ var project = {
             "dates": "2017",
             "description": "This site is my first project - online resume",
             "image": [
-                "images/resume.jpg",
-                "images/resumeSource.jpg"
+                "images/resume.jpg"
+                    ]
+        },
+        {
+            "title": "Classic Arcade Game Clone",
+            "dates": "2018",
+            "description": 'Clone of the classic arcade game within the course "Front-End Web Developer Nanodegree Program"',
+            "image": [
+                "images/ArcadeGame.jpg"
                     ]
         }
     ]
