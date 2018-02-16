@@ -229,3 +229,11 @@ span {
     display: block;
   }
 }
+
+.project-entry {
+  display: inline-block;
+  width: 350px;
+}
+.flex-item {
+  display: inline;
+}
